@@ -61,19 +61,3 @@ Gợi ý:
 để đồ thị có thể ghi tiếng Việt, sử dụng font Unicode như "Arial"::
 
 	matplotlib.rc('font', family='Arial')
-
-6
--
-
-Dùng Pandas tìm ngày mà giá BTC cao nhất. Giải nén file dữ liệu: localbtcVND.csv.gz
-(tham khảo cách giải nén bầng câu lệnh: http://www.familug.org/2012/09/nen-giai-nen-bang-command-line-trong.html)
-
-7
--
-
-Trả lời 101 câu hỏi về Numpy: https://www.machinelearningplus.com/101-numpy-exercises-python/
-
-N
--
-
-- Viết review cho PyFML https://www.facebook.com/pyfml/
